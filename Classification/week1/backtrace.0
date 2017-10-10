@@ -1,0 +1,49 @@
+Pointers
+------------
+0x117db1df0
+0x1183b9db9
+0x118b709cb
+0x117a57a21
+0x117e4e827
+0x117e4e035
+0x117e60708
+0x117e62756
+0x117e625fa
+0x117e5ea7f
+0x7fffca06b93b
+0x7fffca06b887
+0x7fffca06b08d
+Raw
+------------
+0   libunity_shared.dylib               0x0000000117db1df0 _Z18__print_back_tracev + 176
+1   libunity_shared.dylib               0x00000001183b9db9 _ZN8graphlab12unity_sframe13remove_columnEm + 1417
+2   libunity_shared.dylib               0x0000000118b709cb _ZN6cppipc13dispatch_implIN8graphlab17unity_sframe_baseEMS2_FvmEE7executeEPvPNS_11comm_serverERNS1_8iarchiveERNS1_8oarchiveE + 123
+3   libunity_shared.dylib               0x0000000117a57a21 _ZN6cppipc11comm_server8callbackERN8graphlab11nanosockets14zmq_msg_vectorES4_ + 2225
+4   libunity_shared.dylib               0x0000000117e4e827 _ZN8graphlab11nanosockets18async_reply_socket11process_jobENS1_3jobE + 151
+5   libunity_shared.dylib               0x0000000117e4e035 _ZN8graphlab11nanosockets18async_reply_socket15thread_functionEv + 245
+6   libunity_shared.dylib               0x0000000117e60708 _ZN8graphlab12thread_group6invokeEN5boost8functionIFvvEEEPS0_ + 40
+7   libunity_shared.dylib               0x0000000117e62756 _ZN5boost3_bi5list2INS0_5valueINS_8functionIFvvEEEEENS2_IPN8graphlab12thread_groupEEEEclIPFvS5_S9_ENS0_5list0EEEvNS0_4typeIvEERT_RT0_i + 86
+8   libunity_shared.dylib               0x0000000117e625fa _ZN5boost6detail8function26void_function_obj_invoker0INS_3_bi6bind_tIvPFvNS_8functionIFvvEEEPN8graphlab12thread_groupEENS3_5list2INS3_5valueIS7_EENSE_ISA_EEEEEEvE6invokeERNS1_15function_bufferE + 26
+9   libunity_shared.dylib               0x0000000117e5ea7f _ZN8graphlab6thread6invokeEPv + 47
+10  libsystem_pthread.dylib             0x00007fffca06b93b _pthread_body + 180
+11  libsystem_pthread.dylib             0x00007fffca06b887 _pthread_body + 0
+12  libsystem_pthread.dylib             0x00007fffca06b08d thread_start + 13
+
+Demangled
+------------
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+-------------------------------------------------------
+
+
