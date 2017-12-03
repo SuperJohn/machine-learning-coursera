@@ -1,0 +1,3 @@
+*.zip
+*/image_train_data/**
+*/image_test_data/**
